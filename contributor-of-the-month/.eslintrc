@@ -1,8 +1,0 @@
-{
-	"extends": "@remotion",
-	"rules": {
-		"camelcase": "off",
-		"no-constant-condition": "off",
-		"capitalized-comments": "off"
-	}
-}
